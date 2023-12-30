@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['repository_0',['Step 1: Clone the repository',['../index.html#step1',1,'']]]
+  ['library_0',['Step 2: Compile the library',['../index.html#step2',1,'']]]
 ];

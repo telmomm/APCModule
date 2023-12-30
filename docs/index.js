@@ -6,5 +6,6 @@ var index =
       [ "Step 2: Compile the library", "index.html#step2", null ]
     ] ],
     [ "Usage", "index.html#usage_sec", null ],
+    [ "Aux Docs", "index.html#pdf_sec", null ],
     [ "Version Control", "index.html#version_sec", null ]
 ];
