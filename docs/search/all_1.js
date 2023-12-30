@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['2_3a_20compile_20the_20library_0',['Step 2: Compile the library',['../index.html#step2',1,'']]]
+  ['getsettings_0',['getSettings',['../class_a_p_c_module.html#a0f556c7fc06d0f5238d59470b0d85b08',1,'APCModule']]]
 ];

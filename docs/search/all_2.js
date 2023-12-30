@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['acpmodule_0',['ACPModule',['../index.html',1,'']]],
-  ['apcmodule_1',['APCModule',['../class_a_p_c_module.html',1,'APCModule'],['../class_a_p_c_module.html#aecebe8e5e6f02496c31f7b7d82f50fcd',1,'APCModule::APCModule(HardwareSerial &amp;serial, int pinSet)'],['../class_a_p_c_module.html#acb8bd36fb299270844d48072f78da5f8',1,'APCModule::APCModule(SoftwareSerial &amp;serial, int pinSet)'],['../md__r_e_a_d_m_e.html',1,'APCModule']]]
+  ['init_0',['init',['../class_a_p_c_module.html#aa8e9d1cf99f6c8cb23149a4742928eea',1,'APCModule']]]
 ];
