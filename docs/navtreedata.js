@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "APC Module", "index.html", [
+    [ "APCModule", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

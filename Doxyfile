@@ -993,6 +993,7 @@ FILE_PATTERNS          = *.c \
                          *.cc \
                          *.cpp \
                          *.h \
+                         *.dox \
                          *.pdf \
                          
 
